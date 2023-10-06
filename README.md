@@ -4,14 +4,14 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Devollox&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ㅤㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Devollox&theme=dark&background=000000)](https://git.io/streak-stats)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Devollox&theme=dark&background=000000)](https://git.io/streak-stats)
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Devollox\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=000000)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Devollox\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=000000)
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devollox&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devollox&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Devollox\&repo=DragAndDropButtons\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=000000)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Devollox\&repo=DiscordRichPresence\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=000000)
+ㅤㅤㅤㅤㅤ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Devollox\&repo=DragAndDropButtons\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=000000)
+ㅤ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Devollox\&repo=DragAndDropButtons\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=000000)
 
 
 
