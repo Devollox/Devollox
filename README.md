@@ -6,9 +6,8 @@
 
 ㅤ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Devollox\&repo=DragAndDropButtons\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=000000)
 ㅤ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Devollox\&repo=RichPresence\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=000)
-ㅤㅤ
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Devollox&theme=dark&background=000000)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Devollox\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=000000)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Devollox&theme=dark&background=000000)](https://git.io/streak-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Devollox\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=000000)
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devollox&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
