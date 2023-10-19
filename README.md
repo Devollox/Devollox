@@ -1,6 +1,3 @@
-<img position="absolute" style="margin-right: 30px;" width="1000" src="https://github.com/Devollox/Devollox/blob/main/header.png" alt="альтернативный текст">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Devollox&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ㅤ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Devollox\&repo=DragAndDropButtons\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=000000)
 ㅤ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Devollox\&repo=RichPresence\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=000)
