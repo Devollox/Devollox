@@ -1,5 +1,5 @@
 <h1 align="center" >
-     <a>Hi! i'm Devollox</a>
+     <a href="https://devollox.fun/">Hi! i'm Devollox</a>
 </h1>
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Devollox&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
