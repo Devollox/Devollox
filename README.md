@@ -1,16 +1,28 @@
-<img position="absolute" style="margin-right: 30px;" width="1000" src="https://github.com/Devollox/Devollox/blob/main/header.png" alt="альтернативный текст">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Devollox&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-ㅤ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Devollox\&repo=DragAndDropButtons\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=000000)
-ㅤ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Devollox\&repo=RichPresence\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=000)
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Devollox&theme=dark&background=000000)](https://git.io/streak-stats)
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Devollox\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=000000)
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devollox&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center" rotate="180">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+<h1 align="center" >
+     <a>Hi! i'm Devollox</a>
+</h1>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Devollox&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Devollox&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
 </p>
+
+<div align="center">
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Devollox\&repo=My-way\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=00000000&hide_border=true)
+</div>
+
+<div align="center">
+<details>
+<summary>more</summary>
+<table width="2000">
+
+<h2>
+    <a>
+        )
+    </a>
+</h2>
+
+
+
+</details>
+</div>
