@@ -15,10 +15,12 @@
 <details>
 <summary>More</summary>
 <table width="2000">
-<br/>
-⠀<img height="100%" width="auto" src ="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D">
-<img height="100%" width="auto" src ="https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=00000">
-<img height="100%" width="auto" src ="https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=00000">
-<img height="100%" width="auto" src ="https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS&logoColor=00000">
+
+<div>
+     <h1>
+          I'm starting to learn new <a href="https://github.com/Devollox/My-way">technologies</a>!
+     </h1>
+</div>
+
 </details>
 </div>
