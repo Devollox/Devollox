@@ -13,16 +13,10 @@
 
 <div align="center">
 <details>
-<summary>more</summary>
+<summary>More</summary>
 <table width="2000">
 
-<h2>
-    <a>
-        )
-    </a>
-</h2>
-
-
+<h1>He-hi</h1>
 
 </details>
 </div>
