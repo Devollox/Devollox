@@ -17,9 +17,9 @@
 <table width="2000">
 
 <div>
-     <h1>
+     <h2>
           I'm starting to learn new <a href="https://github.com/Devollox/My-way">technologies</a>!
-     </h1>
+     </h2>
 </div>
 
 </details>
