@@ -15,17 +15,11 @@
 <details>
 <summary>More</summary>
 <table width="2000">
-
 <div>
      <h1>
           I'm starting to learn new <a href="https://github.com/Devollox/My-way">technologies</a>!
      </h1>
 </div>
-
-
-
-
-
 <div align="center">
      <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /</a>  
