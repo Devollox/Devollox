@@ -7,7 +7,7 @@
 </p>
 <div align="center" height="50%">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Devollox&theme=dark&hide_border=true&border_radius=0&date_format=%5BY.%5Dn.j&background=EBEBEB00" alt="GitHub Streak" /></a>
+<img src="https://streak-stats.demolab.com?user=Devollox&theme=dark&hide_border=true&border_radius=0&date_format=%5BY.%5Dn.j&background=EBEBEB00" alt="GitHub Streak" />
 
      
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Devollox\&repo=MyWay\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=00000000&hide_border=true)
