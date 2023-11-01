@@ -10,6 +10,8 @@
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Devollox\&repo=MyWay\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=00000000&hide_border=true)
 </div>
 
+
+
 <div align="center">
 <details>
 <summary>More</summary>
@@ -19,10 +21,10 @@
           I'm starting to learn new <a href="https://github.com/Devollox/My-way">technologies</a>!
      </h1>
 </div>
-<div align="center">
-     <div align="center">
-          
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,next,rxjs,redux,tailwind,sass,nodejs,git,express,docker)](https://skillicons.dev)
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,next,rxjs,redux,tailwind,sass,nodejs,git,express,docker,bots&perline=7"/>
+  </a>
+</p>
 </div>
 
