@@ -3,8 +3,10 @@
   "description": "Hi, I'm Devollox",
   "html_url": "https://github.com/Devollox/Devollox",
   "logo": "https://raw.githubusercontent.com/Devollox/Devollox/main/logo.png",
-
-  
+  "objectRepository": [
+    "Devollox",
+    "Devollox-Website"
+  ],
   "token": "716185267152617485",
   "large_image": "https://media.tenor.com/_sRq7f0tQLEAAAAC/reactjs.gif",
   "small_image": "https://i.pinimg.com/originals/2d/b2/8c/2db28c089e0f427bad17685b0c108a5d.jpg",
