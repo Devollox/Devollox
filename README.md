@@ -15,9 +15,7 @@
 
 
 <div align="center">
-<details>
-<summary>More</summary>
-<table width="2000">
+
 <div>
      <h1>
           I'm starting to learn new <a href="https://github.com/Devollox/My-way">technologies</a>!
@@ -25,7 +23,22 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,next,rxjs,redux,tailwind,sass,nodejs,git,express,docker,bots&perline=7"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,next,rxjs,redux,tailwind,sass,nodejs,redis,react,git,express&perline=7"/>
   </a>
 </p>
+     <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=electron,docker,bots,discordjs&perline=7"/>
+  </a>
+</p>
+</div>
+<div>
+     <h1>
+          I <a href="https://github.com/Devollox/My-way">use</a> this.
+     </h1>
+</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=webstorm,ps,ae,windows,discord,figma,obsidian&perline=7"/>
+  </a>
 </div>
