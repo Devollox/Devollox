@@ -23,10 +23,15 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,next,rxjs,redux,tailwind,sass,nodejs,redis,react,git,express&perline=7"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,next,rxjs,redux&perline=7"/>
   </a>
 </p>
-     <p align="center">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,sass,nodejs,redis,react,git,express&perline=7"/>
+  </a>
+</p>
+ <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=electron,docker,bots,discordjs&perline=7"/>
   </a>
