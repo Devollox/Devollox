@@ -1,19 +1,17 @@
-<h1 align="center" >
-     <a href="https://devollox.fun/">Hi! i'm Devollox</a>
-</h1>
+```
+          
+          ▓█████▄ ▓█████ ██▒   █▓ ▒█████   ██▓     ██▓     ▒█████  ▒██   ██▒
+          ▒██▀ ██▌▓█   ▀▓██░   █▒▒██▒  ██▒▓██▒    ▓██▒    ▒██▒  ██▒▒▒ █ █ ▒░
+          ░██   █▌▒███   ▓██  █▒░▒██░  ██▒▒██░    ▒██░    ▒██░  ██▒░░  █   ░
+          ░▓█▄   ▌▒▓█  ▄  ▒██ █░░▒██   ██░▒██░    ▒██░    ▒██   ██░ ░ █ █ ▒ 
+          ░▒████▓ ░▒████▒  ▒▀█░  ░ ████▓▒░░██████▒░██████▒░ ████▓▒░▒██▒ ▒██▒
+           ▒▒▓  ▒ ░░ ▒░ ░  ░ ▐░  ░ ▒░▒░▒░ ░ ▒░▓  ░░ ▒░▓  ░░ ▒░▒░▒░ ▒▒ ░ ░▓ ░
+           ░ ▒  ▒  ░ ░  ░  ░ ░░    ░ ▒ ▒░ ░ ░ ▒  ░░ ░ ▒  ░  ░ ▒ ▒░ ░░   ░▒ ░
+           ░ ░  ░    ░       ░░  ░ ░ ░ ▒    ░ ░     ░ ░   ░ ░ ░ ▒   ░    ░  
+             ░       ░  ░     ░      ░ ░      ░  ░    ░  ░    ░ ░   ░    ░  
+           ░                 ░                                              
 
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Devollox&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Devollox&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-</p>
-<div align="center" height="50%">
-<img src="https://streak-stats.demolab.com?user=Devollox&theme=dark&hide_border=true&border_radius=0&date_format=%5BY.%5Dn.j&background=EBEBEB00" alt="GitHub Streak" />
-
-<h3 align="center">
-    <a href="https://devollox.fun/">My WebSite</a>
-</h3>
-
-
+```
 <div align="center">
 
 <div>
