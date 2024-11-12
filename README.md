@@ -42,6 +42,6 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=webstorm,ps,ae,windows,discord,figma,obsidian&perline=7"/>
+    <img src="https://skillicons.dev/icons?i=vscode,webstorm,ps,ae,windows,discord,figma,obsidian&perline=8"/>
   </a>
 </div>
